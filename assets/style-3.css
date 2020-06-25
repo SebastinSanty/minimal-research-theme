@@ -44,7 +44,7 @@ a:hover {
 .profilepic {
     width: 150px;
     border-radius: 40%;
-    /* filter: grayscale(100%); */
+    filter: grayscale(30%);
 }
 
 @media (min-width: 768px) {
@@ -70,7 +70,7 @@ a:hover {
         border-radius: 40%;
         padding-top: 0px !important;
         padding-bottom: 0px !important;
-        /* filter: grayscale(100%); */
+        filter: grayscale(30%);
     }
 
     .menur {

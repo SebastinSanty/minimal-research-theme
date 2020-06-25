@@ -3,8 +3,8 @@ const fontname = "Barlow";
 const fontweights = [300, 400]
 
 // Color properties
-const basecolor = "#888";
-const accentcolor = "#222";
+const basecolor = "#777";
+const accentcolor = "#007";
 const highlightcolor = "#111";
 
 // const basecolor = "#888";
@@ -14,11 +14,11 @@ const highlightcolor = "#111";
 // Body properties
 const bodyfontweight = 300;
 const bodyfontsize = "12pt";
-const backgroundcolor = "#fff";
+const backgroundcolor = "#FFFAF0";
 
 // Link properties
 const acolor = accentcolor;
-const adecoration = "none";
+const adecoration = "underline dotted";
 // const ahovercolor = accentcolor;
 // const ahoverduration = "0.3s";
 // const ahoverdecoration = "none"; //none, underline, overline, dotted, color (https://www.w3schools.com/cssref/pr_text_text-decoration.asp)
@@ -35,7 +35,7 @@ const menudecoration = "none";
 const headercolor = accentcolor;
 const headerfontsize = "18pt";
 const headerdecoration = "none";
-const namecolor = accentcolor;
+const namecolor = highlightcolor;
 const namefontsize = "23pt";
 
 

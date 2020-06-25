@@ -18,6 +18,9 @@ with style-1.js and style-1.css:
 with style-2.js and style-2.css:
 ![Example3](assets/example3.png)
 
+with style-3.js and style-3.css:
+![Example4](assets/example4.png)
+
 ## Currently Deployed
 [Sebastin Santy](http://sebastinsanty.com/), [Pratik Joshi](https://pratikmjoshi.github.io/)
 
