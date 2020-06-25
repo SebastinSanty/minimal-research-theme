@@ -21,7 +21,7 @@ with style-2.js and style-2.css:
 with style-3.js and style-3.css:
 ![Example4](assets/example4.png)
 
-## Currently Deployed
+## Currently Living @
 [Sebastin Santy](http://sebastinsanty.com/), [Pratik Joshi](https://pratikmjoshi.github.io/)
 
 If you are using this template, thank you! Do send a pull request if you would like your name here.

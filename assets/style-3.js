@@ -1,5 +1,5 @@
 // Initialize font properties
-const fontname = "Barlow";
+const fontname = "Roboto+Mono";
 const fontweights = [300, 400]
 
 // Color properties
@@ -25,7 +25,7 @@ const adecoration = "underline dotted";
 
 // Menu properties
 const menucolor = basecolor;
-const menufontsize = "14pt";
+const menufontsize = "15pt";
 const menudecoration = "none";
 // const menuhover = accentcolor;
 // const menuhoverduration = "0.3s";
