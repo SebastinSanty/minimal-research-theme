@@ -1,0 +1,85 @@
+.instilogo {
+    height: 50px;
+    filter: grayscale(100%);
+}
+
+a:hover {
+    /* font-weight: 400; */
+    text-decoration: none;
+    transition-duration: 0.3s;
+    transition-timing-function: linear;
+    /* color: #444; */
+}
+
+
+.noter {
+    font-size: 9pt;
+}
+
+.tagsep {
+    padding: 4px;
+}
+
+.tag {
+    padding-right: 2px;
+}
+
+.confshort {
+    font-weight: 300;
+}
+
+.conf {
+    display: inline-block;
+    padding-bottom: 4px;
+}
+
+.paper {
+    border-left: 1px solid #ddd;
+}
+
+.menulink:hover {
+    color: #111;
+}
+
+.profilepic {
+    width: 150px;
+    border-radius: 40%;
+    filter: grayscale(100%);
+}
+
+@media (min-width: 768px) {
+    .fixed-posi {
+        /* width: 50%;
+            margin-left: 50%;
+            min-height:100%; */
+        position: fixed;
+    }
+}
+
+@media only screen and (max-width: 900px) {
+    .allstuff {
+        padding-top: 0px !important;
+    }
+
+    .allstuffp {
+        padding-top: 0px !important;
+    }
+
+    .profilepic {
+        width: 90px;
+        border-radius: 40%;
+        padding-top: 0px !important;
+        padding-bottom: 0px !important;
+        filter: grayscale(100%);
+    }
+
+    .menur {
+        padding-top: 18px !important;
+    }
+
+}
+
+/* .thisauthor {
+          color: #111;
+          text-decoration: underline;
+    } */
