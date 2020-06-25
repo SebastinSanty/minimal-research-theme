@@ -1,6 +1,6 @@
 # Minimal Research Theme :microscope:
 
-No more BS, just plain simple and elegant one-page theme.
+Just a plain, simple and elegant one-page theme for research/academia.
 
 ## Just turn the knobs!
 * For those who just want a quick website, just make changes to style.js.
