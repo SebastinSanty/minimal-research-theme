@@ -3,7 +3,7 @@
 Just a plain, simple and elegant one-page theme for research/academia.
 
 ## Just turn the knobs!
-* For those who just want a quick website, just make changes to style.js.
+* For those who just want a quick website, customize `assets/style-3.js` and `assets/style-3.css`, the style files loaded by the default `index.html`.
 * For those who know web dev, the browser is yours, play around.
 
 ## Examples
